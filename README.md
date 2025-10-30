@@ -1,4 +1,4 @@
-# 48682497_COMP8240_Final_Report
+# 48682497 COMP8240 Final Report
 This Repository contains all the necessary files and information regarding my COMP8240 project.
 
 # LoRA Replication — SST-2:
