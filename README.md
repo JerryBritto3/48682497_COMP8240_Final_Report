@@ -1,8 +1,11 @@
-# 48682497 COMP8240 Final Report
+# 48682497 - COMP8240 - Final Report
 This Repository contains all the necessary files and information regarding my COMP8240 project.
 
-# LoRA Replication — SST-2:
-This folder shows **My replication steps**.
+# My Project:
+Parameter-Efficient Sentiment Classification with LoRA: Replication and Extension on Multi-Domain Reviews.
+
+# LoRA Replication — SST-2 Process:
+
 
 ## What this is
 - **Script:** `train_lora_sst2.py`
